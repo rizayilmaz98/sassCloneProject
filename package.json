@@ -1,0 +1,22 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "clone",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --w sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizayilmaz98/clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizayilmaz98/clone/issues"
+  },
+  "homepage": "https://github.com/rizayilmaz98/clone#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
